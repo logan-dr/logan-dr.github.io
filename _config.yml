@@ -1,7 +1,9 @@
 title: Logan DR
-description: Personal site
-remote_theme: pages-themes/midnight@v0.2.0
+description: Personal blog
+theme: minima
+
+minima:
+  skin: dark
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
